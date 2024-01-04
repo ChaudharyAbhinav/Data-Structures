@@ -19,6 +19,8 @@ class Solution {
                 count++;
             }
 	*VVIMP:to remove duplicate element from b array*
+	//1 2 34 54 6 4 7 
+	//33 5 4 5 4
             hs.remove(b[i]);
         }
         return count;
