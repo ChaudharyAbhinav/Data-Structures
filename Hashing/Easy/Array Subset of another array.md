@@ -27,4 +27,4 @@ class Compute {
 ```
 
 
-![Solution](https://drive.google.com/uc?1XseD5ot64tmsU3DYQxCQZVUufi8AuJQ6)
+![Solution](https://drive.google.com/uc?id=1XseD5ot64tmsU3DYQxCQZVUufi8AuJQ6)
