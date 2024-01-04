@@ -15,6 +15,6 @@ class Solution {
 
 
 #### Time Complexity: O(n)
-####Space Complexity: O(n)
+#### Space Complexity: O(n)
 
-*Note* : we can optimize space using 2 pointers.
+`Note` : we can optimize space using 2 pointers.
