@@ -19,3 +19,4 @@ DSA with Java
 |---|-------|
 | 1 | [Knapsack](https://github.com/ChaudharyAbhinav/Data-Structures/blob/main/DP/Knapsack.md)
 | 2 | [Longest Common Subsequence](https://github.com/ChaudharyAbhinav/Data-Structures/blob/main/DP/Longest%20Common%20Subsequence.md)
+| 3 | [Longest Common Substring](https://github.com/ChaudharyAbhinav/Data-Structures/blob/main/DP/Longest%20Common%20Substring.md)
