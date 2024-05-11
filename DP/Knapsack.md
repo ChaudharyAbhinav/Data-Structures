@@ -1,5 +1,4 @@
-## Knapsack
-[GFG-link](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+## [Knapsack](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
             
 
 ## Recursion
