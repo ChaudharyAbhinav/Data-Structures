@@ -4,6 +4,7 @@
 
 ## Recursion
 
+```java
 class Solution 
 { 
     //Function to return max value that can be put in knapsack of capacity W.
@@ -27,10 +28,11 @@ class Solution
    
     }
 }
-
+```
 
 ## Memoization
 
+```java
 class Solution 
 { 
     static int dp[][] = new int[1001][1001];
@@ -66,9 +68,10 @@ class Solution
    
     }
 }
-
+```
 
 ## DP
+```java
 class Solution 
 { 
     //Function to return max value that can be put in knapsack of capacity W.
@@ -92,3 +95,4 @@ class Solution
          return dp[n][W];
     } 
 }
+```
