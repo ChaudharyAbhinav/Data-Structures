@@ -1,4 +1,4 @@
-[Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
+## [Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
 
 `Tip`: the question is same as longest common subsequence with just have to do `(size of 1st string + size of 2nd string)- size of longest subsequnce`
 
