@@ -32,4 +32,4 @@ class BinaryTree
 `Time Complexity` : O(n)
 `Space Complexity` : O(n)
 
-`for detailed sc ` : ##### [click me](https://github.com/ChaudharyAbhinav/Data-Structures/blob/main/Tree%20/InOrder%20Traversal.md)
+`for detailed sc ` : ### [click me](https://github.com/ChaudharyAbhinav/Data-Structures/blob/main/Tree%20/InOrder%20Traversal.md)
