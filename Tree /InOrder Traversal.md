@@ -40,10 +40,11 @@ class Solution {
 ### Space Complexity :  
 `Auxiliary Space` (Call Stack Space): Due to the recursive nature of the traversal, the maximum depth of the recursion stack is equal to the height of the tree.
 <br>
-In the worst case, for a skewed tree (where each node has only one child), the height of the tree is `O(n)`. <br>
-In the best case, for a balanced tree, the height of the tree is `O(logn)`.
+* In the worst case, for a skewed tree (where each node has only one child), the height of the tree is `O(n)`. <br>
+* In the best case, for a balanced tree, the height of the tree is `O(logn)`.
 
 `Space for the Result List`: The result list stores the values of all nodes in the tree. `O(n)` space.
 Combining these, the total space complexity is: <br>
+<br>
 `Worst Case`: O(n) <br>
 `Best Case:` O(logn+n)=O(n) 
