@@ -13,7 +13,7 @@
     2. 0(n) -best
     3. 0(n2) - worst
 
-```java
+```
 ### selection sort
   public class Main
   {
@@ -39,7 +39,7 @@
 	        arr[i] = temp;
 	    }
 	}
-	```
+```
 
 ##InsertionSort
 
@@ -61,7 +61,7 @@
 	    }
 	    
 	}
-	```
+```
 
 ## BubbleSort
 ```java
@@ -80,6 +80,3 @@
 	    }    
 	}
 ```
-
-  
-}
