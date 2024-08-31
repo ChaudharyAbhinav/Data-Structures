@@ -13,8 +13,8 @@
     2. 0(n) -best
     3. 0(n2) - worst
 
-```
 ### selection sort
+```
   public class Main
   {
   	public static void main(String[] args) {
@@ -41,7 +41,7 @@
 	}
 ```
 
-##InsertionSort
+## InsertionSort
 
 ```java
 	public static void insertionSort(int[] arr){
