@@ -5,6 +5,8 @@
  ### 2. Recursively Divide the array
  ### 3. Use Merge Two Sorted Arrays
 
+## TC : `O(nlogn)
+
 ```java
 import java.util.Arrays;
 public class Main
